@@ -11,7 +11,7 @@ function Header() {
             <img className='h-12 my-2' src={assets.group_profiles} alt="" />
             <p className='mx-2 font-serif'>Simply browse through our extensive list of trusted doctors <br />Schedule your appointment hassle-free.</p>
         </div>
-        <a className='flex flex-row h-10 gap-4 px-[10px] mx-4 my-4 text-center bg-white w-48 py-1 text-violet-700 text-md rounded-2xl hover:bg-slate-200 hover:text-black ' href="/doctors">
+        <a className='flex flex-row h-10 gap-4 px-[10px] mx-4 my-4 text-center bg-white w-48 py-1 text-violet-700 text-md rounded-2xl hover:bg-slate-200 hover:text-black ' href="">
             Book appointment <img className='w-6' src={assets.arrow_icon} alt="#speciality" />
         </a>
       </div>
